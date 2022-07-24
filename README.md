@@ -4,6 +4,11 @@ Amazon Clone is the Fully functional Real custom made Web application that cover
 
 - To view the deployed Application, click on the link given below : ***Amazon Clone Web App*** 
   - [https://clone-c6b20.web.app/](https://clone-961f9.web.app/)
+  
+**A Demo of the Web App :**
+
+![Amazon Clone](https://github.com/sadiqkhzn/amazon-clone/blob/master/Readme%20Resource/amazon.gif)
+
 
 ### Features 
 
