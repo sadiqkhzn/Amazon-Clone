@@ -7,7 +7,7 @@ Amazon Clone is the Fully functional Real custom made Web application that cover
   
 **A Demo of the Web App :**
 
-![Amazon Clone](https://github.com/sadiqkhzn/amazon-clone/blob/master/Readme%20Resource/amazon.gif)
+![Amazon Clone](https://github.com/sadiqkhzn/amazon-clone/Readme%20Resource/amazon.gif)
 
 
 ### Features 
