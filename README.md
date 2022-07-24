@@ -3,7 +3,7 @@
 Amazon Clone is the Fully functional Real custom made Web application that covers and entire E-commerece functionality from designing, User Authentication till Payments build using `React JS`, `Firebase` and `Stripe`.
 
 - To view the deployed Application, click on the link given below : ***Amazon Clone Web App*** 
-  - [https://clone-961f9.web.app/](https://clone-961f9.web.app/)  
+  - [https://clone-c6b20.web.app/](https://clone-961f9.web.app/)  
   
 **A Demo of the Web App :**
 
@@ -127,8 +127,4 @@ https://github.com/asthasharma98/Amazon-clone.git
 - [https://www.toptal.com/react/react-context-api](https://www.toptal.com/react/react-context-api)
 - [http://getbem.com/naming/](http://getbem.com/naming/)
 - [https://www.digitalocean.com/community/tutorials/how-to-create-custom-components-in-react](https://www.digitalocean.com/community/tutorials/how-to-create-custom-components-in-react)
-
-### Credits 
-
-[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
   
